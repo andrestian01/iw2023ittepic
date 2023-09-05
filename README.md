@@ -36,3 +36,10 @@ git commit -m "añadido 1.txt"
 
 git tag v0.1
 
+|Nombre|GitHub|
+|--------|---------|
+|	Ivan Guadalupe Robles Hernandez|https://github.com/IvanRobles19|
+|Bryan Paul Razón Machain|https://github.com/PaulRazon|
+|	Victor Manuel Pacheco Rosales|https://github.com/XxXelbichoXxX|
+|MONTOYA VALDEZ EDWIN RAMON|https://github.com/edramontoyava|
+|OCHOA MEZA PAUL ALEJANDRO|https://github.com/PaulOchoa952|
