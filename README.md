@@ -44,6 +44,7 @@ Agregar clave publica
 ![image](https://github.com/andrestian01/iw2023ittepic/assets/68936076/17a53f06-8d5c-42e4-9c93-e101d5a2e53f)
 
 1.	Crear una tabla de este estilo en el archivo README.md con la información de al menos 5 de tus compañeros de clase:
+
 |Nombre|GitHub|
 |--------|---------|
 |	Ivan Guadalupe Robles Hernandez|https://github.com/IvanRobles19|
